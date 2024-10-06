@@ -1,5 +1,5 @@
 # Doors Files
-In this repo i will put every Doors files that ive made
+In this repo i will put every Doors files that ive saved
 
 # Some details
 - if the file has the camera bug or you cant spawn : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable
