@@ -2,7 +2,7 @@
 In this repo i will put every Doors files that ive saved
 
 # Some details
-- **IF THE FILE HAS CAM BUG OR IF YOU CAN'T SPAWN DO : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable**
+- ⚠️**IF THE FILE HAS CAM BUG OR IF YOU CAN'T SPAWN DO : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable**
 - if something is missing come on discord: palayop
 - The rbxl files are decompiled files
 - Floor 2 Rooms are in little rbxmx or in [one big file]([https://github.com/Palayop7239/DoorsFiles/blob/main/all%20my%20floor%202%20rooms%20fr.rbxl](https://github.com/Palayop7239/DoorsFiles/blob/main/floor2/all%20my%20floor%202%20rooms%20fr.rbxl)) (no scripts for scripts take the rbxlx files)
