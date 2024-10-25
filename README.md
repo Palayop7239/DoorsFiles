@@ -1,6 +1,6 @@
 # Doors Files
 In this repo i will put every Doors files that ive saved
-
+If you like this repo, check my repo for [Pressure](https://github.com/Palayop7239/PressureFiles)
 # Some details
 - ⚠️**IF THE FILE HAS CAM BUG OR IF YOU CAN'T SPAWN DO : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable**
 - if something is missing come on discord: palayop
