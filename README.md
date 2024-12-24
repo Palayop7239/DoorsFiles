@@ -14,7 +14,7 @@ If you like this repo, check my repo for [Pressure](https://github.com/Palayop72
 # Floor 1
 - Door 50 (before/after Content update)
 - Door 100
-- Jeff Shop (Floor 2 update/ Content update)
+- Jeff Shop (before/after Content update)
 - Garden (Floor 2 update)
 - Halt Room (Floor 2 update)
 - Greenhouse Rooms (Floor 2 update)
