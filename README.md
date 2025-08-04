@@ -3,10 +3,11 @@ In this repo i will put every Doors files that ive saved
 If you like this repo, check my repo for [Pressure](https://github.com/Palayop7239/PressureFiles)
 - [31/10/2024] Hey, i added a [community Discord server](https://discord.gg/QnBrxurD9g) where you can upload your files to the others ! The uploaded files will be verified by the moderators or by myself.
 - [26/12/2024] In the Discord server, I released my mspaint addon.
+- [06/03/2025] Since ive stopped saveinstancing, new files will be verified files from the community
 # Some details
 - ⚠️**IF THE FILE HAS CAM BUG OR IF YOU CAN'T SPAWN DO : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable**
 - if something is missing come on the discord
-- The rbxl files are decompiled files
+- The rbxl files are decompiled files (which means they dont work instantly they arent uncopylockeds, those files should be used for example to get the rooms to use with your room gen)
 
 # Lobby
 - Lobby (Floor 2 update/ Halloween update/ Content update)
