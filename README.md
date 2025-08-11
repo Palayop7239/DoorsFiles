@@ -4,6 +4,7 @@ If you like this repo, check my repo for [Pressure](https://github.com/Palayop72
 - [31/10/2024] Hey, i added a [community Discord server](https://discord.gg/QnBrxurD9g) where you can upload your files to the others ! The uploaded files will be verified by the moderators or by myself.
 - [26/12/2024] In the Discord server, I released my mspaint addon.
 - [06/03/2025] Since ive stopped saveinstancing, new files will be verified files from the community
+- [10/08/2025] Since mspaint changed their system by a subscription only, Easy Save Helper is currently being updated to become a standalone (also fix Pressure support and other stuff)
 # Some details
 - ⚠️**IF THE FILE HAS CAM BUG OR IF YOU CAN'T SPAWN DO : set your cameratype in studio to custom, delete PlayerModule in StarterPlayerScripts, and use the Find All / ReplaceAll function of studio to find the script line that set your cam to scriptable**
 - if something is missing come on the discord
