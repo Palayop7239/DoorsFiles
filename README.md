@@ -31,4 +31,4 @@ If you like this repo, check my repo for [Pressure](https://github.com/Palayop72
 - The Sewers Rooms
 - Some random other rooms
 # Miscellaneous
-- Doors admin panel (Content update)
+- Doors admin panel (Content update/Outdoors Update)
